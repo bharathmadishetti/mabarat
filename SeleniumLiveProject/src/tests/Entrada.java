@@ -9,6 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Entrada {
 
 	public static void main(String[] args) throws InterruptedException {
+		//Comments
 		System.out.println("Before method is executing");
 		System.setProperty("webdriver.gecko.driver", "D:\\Bharath\\Selenium Training\\jars\\servers\\geckodriver.exe");
 		WebDriver driver;
