@@ -20,6 +20,7 @@ public class MercuryTests {
 	@Test
 	public void loginMercury(){
 
+		//comment
 		System.setProperty("webdriver.gecko.driver", "D:\\Bharath\\Selenium Training\\jars\\servers\\geckodriver.exe");
 		//System.setProperty("webdriver.ie.driver", "D:\\Bharath\\Selenium Training\\jars\\servers\\IEDriverServer.exe");
 		WebDriver driver=new FirefoxDriver();
